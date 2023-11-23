@@ -24,27 +24,32 @@ body {
   
   align-items: center;
 }
+
 .titulo{
   color: #353333 ;
   font-size: 3rem;
 
 }
+
 .inpt-mail{
   border-radius: 10px;
   height: 1.75rem;
   width: 15rem;
   margin-bottom: 2px;
 }
+
 input::placeholder{
  color: grey;
  padding-left: 4px;
  font-size: 15px;
 }
+
 .inpt-pass{
   border-radius: 10px;
   height: 1.75rem;
   width: 15rem
 }
+
 .btn-login{
   height: 2rem;
   width: 100%;
@@ -53,6 +58,7 @@ input::placeholder{
   background-color: grey;
   color: aliceblue;
 }
+
 .content img{
   max-width:200px;
   max-height:150px;
